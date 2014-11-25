@@ -8,7 +8,7 @@
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>0/mhZV4kwFnSzCSp45AhFjWaQnaie61uW8VeXioOLQg=</DigestValue>
+<DigestValue>7ygLbz9EFGMWDQnpgISfUE6eoH21AK/SOToEbQyIXK8=</DigestValue>
 </Reference>
 <Reference URI="icon.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -16,7 +16,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>vmo+P1zXfvfXPSHZGPEV14QVSutIJG+0/ISis3XJwYk=</DigestValue>
+<DigestValue>UvIq3Ru0DI1taTuq21xDPLw6CovnqLrYrT0j5jYr9WU=</DigestValue>
 </Reference>
 <Reference URI="js%2Fajax.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -28,7 +28,7 @@
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>TjYxU0jNwr2kN+e0vfiagCWMHek3sAAPXeZkRcnKXNQ=</DigestValue>
+<DigestValue>CHHzwizSpT9Nq3GqIzhwRJ6XGt2BlFqAmRBaZ7nPaIc=</DigestValue>
 </Reference>
 <Reference URI="res%2Fxml%2Faccessoryservices.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -63,11 +63,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-Krqrq/6FPtE+HP88bK1aNJK9mFf5PstAHY2NywP72DdAJ4KTyrZImpI1RgQQ3ourJEsy3oqWoVSG
-HOWkDikpdMzxDg1iRQNVwHTU2EAVd/bAyo6PFn3qcrEpzddd+LW3+6/cr4MfRlC5VujjGkBp7VmL
-WOpImcg8vMuotcALnAfghmdXki/+z9HLchh38gpvxIYHFxbhmxwvJXte2WF8iMUX2pPupE3VvKsb
-Pm7P+daDa9BqdAnDMUaWpEZjuqRi1QsLXhqYrIpAgSf+5gie7a9JF01bu/RpLJk+99iIbankQdyg
-U/xiOmdy+2CwZ8bcaSvJcqD9v3/r2wzbJDD1NA==
+SKotA/bnuelT+TpBn6bDnUAqkQHX9jDCbAQAh2JfKC/NktNbjzNIniNG/mDRquOjDVRO72ChRCS9
+bYeXNlnGHhMcsmiVVTpVcBHVUtRZQVAdU6O5lo4bKuOEaUZz5aRfZedK0Up2JXzTR+bGAxcIdW3M
+6DUMuH3hUC9i1hlB//MtfWUbFmvjvqiH272dqaFc5IW8BMBVEhtu6K8tWFFCYodCQNq4wOWQBhlZ
+jg7UDQMPuCFzf0puRkXYWuMQMZewkq2qxIIWsh7Gspw4SSaeiUv8XcV2w8tVQ7Ve+mFs5FYhLWIm
+mlqHZf2b3O0kE9UxnfvOOYVNQvAjR+NMsFDOOA==
 </SignatureValue>
 <KeyInfo>
 <X509Data>
